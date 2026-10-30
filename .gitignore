@@ -1,0 +1,19 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Máquinas virtuales y discos
+*.vdi
+*.vmdk
+*.ova
+*.iso
+
+# Secretos y credenciales
+*.key
+*.pem
+.env
+passwords.txt
+
+# Temporales
+*.log
+*.tmp
